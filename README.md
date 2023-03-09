@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Supply+Chain+Student;Data+Analyst;Data-Storyteller%20|%20Data-Driven%20|%20Data%20Passionate;Forever%20Seeking%20New%20Knowledge&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">Afnan Ahmad is an undergraduate in Information Systems and Supply Chain Management. He brings a strong set of technical and analytical skills to the table, including proficiency in Excel, SQL, Power BI, and Tableau. Afnan has experience using these tools to analyze and visualize data for decision-making purposes.</h4>
+<h4 align="center">Afnan Ahmad is an undergraduate in Information Systems and Supply Chain Management. He brings a strong set of technical and analytical skills to the table, including proficiency in Excel, SQL, Power BI, SAP and Tableau. Afnan has experience using these tools to analyze and visualize data for decision-making purposes.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=afnan-ahm&label=Afnan's%20Profile%20Views%20&color=dc143c&style=plastic" alt="afnan-ahm" /> </p>
 
@@ -12,7 +12,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1yXtSISPXhXgbcMJ8eQqimzL88Ebwdsym/view?usp=sharing"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="Resume"/></a>
 <a target="_blank" rel="noopener noreferrer" href="https://public.tableau.com/app/profile/afnan.ahmad"><img src="https://img.icons8.com/bubbles/50/000000/search.png" alt="Tableau"/></a>
 	
-🙋‍♀️ Let's Connect
+Let's Connect
 
 <p align="center">
 	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/afnan-ahm"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
