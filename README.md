@@ -53,7 +53,7 @@ Let's Connect
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/afnan-ahm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan-ahm&show_icons=true&locale=en&theme=algolia" alt="muizzm" height="192px"/></a>
+    <a href="https://github.com/afnan-ahm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan-ahm&show_icons=true&locale=en&theme=algolia" alt="Afnan" height="192px"/></a>
 	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afnan-ahm&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Afnan" height="192px"/>
@@ -66,7 +66,7 @@ Let's Connect
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/afnan-ahm"><img alt="Muizz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=afnan-ahm&custom_title=Muizz%20Muhammd's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/afnan-ahm"><img alt="Afnan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=afnan-ahm&custom_title=Afnan%20Ahmad's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
